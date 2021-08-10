@@ -1,0 +1,2 @@
+LABEL=RPI4ROOT  /       ext4  defaults,noatime,nodiratime  0 0
+LABEL=RPI4BOOT  /boot   vfat  defaults,noatime,nodiratime  0 0
